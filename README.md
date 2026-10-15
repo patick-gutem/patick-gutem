@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> ### 📌 Repositório Principal
+> Este perfil/projeto é mantido no repositório principal. Acesse:  
+> 👉 **[https://github.com/patick-gu](https://github.com/patick-gu)**
+
 <h1 align="center">Olá! Eu sou o Patrick ⭐</h1>
 <hr>
 Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jornada começou quando não tinha mais graça no pc ou celular então busquei saber como as coisas eram feitas no mundo digital entao conheci a programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
