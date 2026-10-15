@@ -3,7 +3,17 @@
 > Este perfil/projeto é mantido no repositório principal. Acesse:  
 > 👉 **[https://github.com/patick-gu](https://github.com/patick-gu)**
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Patick-gu&label=Visitas+no+Perfil&color=0e75b6&style=flat-square" alt="Contador de Visitas" />
+</div>
+
 <h1 align="center">Olá! Eu sou o Patrick ⭐</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Entusiasta+Java+%26+Spring+Boot;Buscando+sempre+evoluir+e+aprender" alt="Typing SVG" />
+  </a>
+</div>
 <hr>
 Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jornada começou quando não tinha mais graça no pc ou celular então busquei saber como as coisas eram feitas no mundo digital entao conheci a programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
 <br>
@@ -16,12 +26,17 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
 - ⚡| Estou ansioso para enfrentar novos desafios e contribuir para o desenvolvimento de soluções tecnológicas.<br><br>
 
 <div align="center">
-  
+  <img src="https://github-trophies.devomb.com/?username=Patick-gu&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patick-gu&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patick-gu&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <br><br>
   <a href="https://github.com/Patick-gu">
-
-  [![GitHub Streak](https://github-readme-streak-stats-lac-five.vercel.app?user=Patick-gu&theme=dark&hide_border=true)](https://git.io/streak-stats)    
+    <img src="https://github-readme-streak-stats-lac-five.vercel.app?user=Patick-gu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-
 </div>
   <div style="display: inline_block"><br>
 
@@ -63,10 +78,15 @@ Sou um entusiasta da tecnologia amante do desenvolvimento de sistemas. Minha jor
     
 
 
-    ## Certificações
+    ## 🎓 Certificações
 
+<div align="center">
+  <img src="./foma%C3%A7%C3%A3o%20java_page-0001.jpg" width="48%" alt="Formação Java" />
+  <img src="./forma%C3%A7%C3%A3o%20espring%20boot_page-0001.jpg" width="48%" alt="Formação Spring Boot" />
+</div>
 
-   
+<br>
+
   ---
   
   <!--   profile-green-animate -->
